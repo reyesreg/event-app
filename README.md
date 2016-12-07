@@ -4,7 +4,7 @@ What it should look like:
 
 ![What it should look like](http://i.imgur.com/XfjYTjhm.jpg)
 
-Todo:
+###Todo:
 
 [ ] Main events page
 
