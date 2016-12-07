@@ -1,4 +1,4 @@
-# event-app
+# event-app Book Now Page
 
 What it should look like:
 
