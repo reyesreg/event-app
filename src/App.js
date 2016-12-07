@@ -8,7 +8,7 @@ export default class App extends Component {
         return (
             <Router>
                 <Scene key="root">
-                    <Scene key="Details" component={Details} title="" navigationBarStyle={styles.navbar} inital />
+                    <Scene key="Details" component={Details} title="" navigationBarStyle={styles.navbar} initial />
                     <Scene key="Events" component={Events} title="" hideNavBar />
                 </Scene>
             </Router>
